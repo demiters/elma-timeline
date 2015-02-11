@@ -9,12 +9,12 @@ $(document).ready(function() {
     source: 'https://docs.google.com/spreadsheet/pub?key=0AldnkYMPn1tydFVzX3lCUjR2eGtqMjZVZlMwT3pYZHc&output=html',
     embed_id: 'elma-timeline',
     // Reverse order of display
-    start_at_end: true,
+    start_at_end: false,
     start_at_slide: '0',
-    start_zoom_adjust: '0',
+    start_zoom_adjust: '-3',
     // Allow bookmarking slides using the hashtag
     hash_bookmark: true,
-    //font: 'Bevan-PotanoSans',
+    font: 'SansitaOne-Kameron',
     debug: true
     //lang: 'en',
     //maptype: 'watercolor',
