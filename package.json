@@ -2,7 +2,7 @@
   "name": "elma-timeline",
   "version": "0.0.1",
   "description": "Elasto Mania history timeline",
-  "main": "app/scripts/main.js",
+  "main": "scripts/main.js",
   "scripts": {
     "test": "make test"
   },
