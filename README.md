@@ -1,5 +1,4 @@
 #Elasto Mania history timeline
-=====
 
 Using StoryJS/TimelineJS to fetch data from a Google Spreadsheet and display it in a pretty timeline.
 
@@ -9,7 +8,7 @@ For casual discussion go to [Mopolauta](http://mopolauta.moposite.com/) or #acro
 
 ##Help us document Elma history
 
-Everyone is currently welcome to contribute information about everything noteworthy that's ever happened in the community. Entries are best supported with references - links, pictures, videos, replay/level and other files, even IRC logs are valuable.
+Everyone is currently welcome to contribute information about everything noteworthy that's ever happened in the community. Entries are best supported with references such as links, pictures, videos, music, replay/level and other files, even IRC logs are valuable. In many cases the referred media is then nicely embedded into the page.
 
 The Google spreadsheet that we use to collect this information is easy and convenient for people to edit and collaborate in but before you enter it you need to read and stick to the rules. Read [this section of the TimelineJS README](https://github.com/NUKnightLab/TimelineJS#google-docs).
 
